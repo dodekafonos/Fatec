@@ -1,0 +1,9 @@
+Perguntas para o Cliente:
+
+1. Quais informações deseja visualizar na tela para criar as Ordens de Serviço?
+
+2. Quem poderá ser capaz de criar, atualizar, ler e deletar as ordens de serviço?
+
+3. Além dos recursos visuais apresentados, você deseja poder visualizar mais algum recurso na página home?
+
+4. Quais informações técnicas deseja visualizar sobre as máquinas? Pra quem estas informações devem estar disponíveis? Todos os usuários, apenas técnicos ou apenas usuários comuns?
