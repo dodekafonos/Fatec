@@ -1,6 +1,9 @@
 #!/usr/bin/python -tt
 # Exercícios by Nick Parlante (CodingBat)
 
+# Jonas Alves Bueno
+# 1º ADS - matutino
+
 # A. first_last6
 # verifica se 6 é o primeiro ou último elemento da lista nums
 # first_last6([1, 2, 6]) -> True
