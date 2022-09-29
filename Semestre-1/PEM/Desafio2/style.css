@@ -5,6 +5,10 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+a {
+    text-decoration: none;
+}
+
 .header {
     background-color: #ffbc08;
     color: white;
@@ -23,7 +27,6 @@ body {
 }
 
 .header a {
-    text-decoration: none;
     color: white;
 }
 
@@ -32,7 +35,6 @@ body {
     width: 920px;
     display: flex;
     flex: 2;
-
 }
 
 .conteudo {
@@ -54,6 +56,10 @@ body {
     color: #ffbc08;
 }
 
+.post a {
+    color: #ffbc08;
+}
+
 .canto {
     display: block;
     text-align: start;
@@ -64,6 +70,10 @@ body {
 .recentes {
     background-color: white;
     padding: 10px;
+}
+
+.recentes a {
+    color: #ffbc08;
 }
 
 .categorias {

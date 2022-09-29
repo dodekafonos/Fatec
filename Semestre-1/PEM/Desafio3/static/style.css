@@ -1,0 +1,40 @@
+body {
+    margin: auto;
+}
+
+.header {
+    text-align: start;
+    width: 900px;
+    height: 104px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+
+#logo {
+    margin-left: 5%;
+    margin-right: 40%;
+}
+
+.conteudo {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: auto;
+    height: 800px;
+    width: 900px;
+}
+
+.main {
+    image-resolution: inherit;
+}
+
+.links {
+    padding-left: 20px;
+}
+
+.direitos {
+    text-align: center;
+    margin-top: 40px;
+    font-weight: bold;
+}
