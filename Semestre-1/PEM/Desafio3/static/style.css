@@ -25,6 +25,10 @@ body {
     width: 900px;
 }
 
+.place-holder-text {
+    text-align: justify;
+}
+
 .main {
     image-resolution: inherit;
 }
