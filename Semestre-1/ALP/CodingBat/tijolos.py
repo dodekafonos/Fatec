@@ -46,6 +46,7 @@ def main():
   test(fila_tijolos(1000000, 1000, 1000100), True)
   test(fila_tijolos(2, 1000000, 100003), False)
   test(fila_tijolos(12, 2, 21), True)
+  test(fila_tijolos(0, 3, 75), True)
 
 if __name__ == '__main__':
   main()
