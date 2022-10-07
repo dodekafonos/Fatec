@@ -69,6 +69,12 @@ a {
     width: 200px;
 }
 
+.canto h4 {
+    padding: 5px;
+    margin: 0px;
+
+}
+
 .recentes {
     background-color: white;
     padding: 10px;
@@ -90,6 +96,7 @@ a {
 
 .categorias li {
     list-style-type: none;
+    margin: 4px 0px;
 }
 
 .categorias a {
