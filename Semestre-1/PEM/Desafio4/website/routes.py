@@ -19,7 +19,6 @@ def contato():
         email = request.form.get("email")
         assunto = request.form.get("assunto")
         desc = request.form.get("desc")
-        print("hey there")
         insert(email, assunto, desc)
         return render_template("contato.html")
     
